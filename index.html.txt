@@ -1,0 +1,10 @@
+<html>
+<title>
+DemoWebapp
+</title>
+<body>
+<h1>
+Welcome to microsoft azure1!Version1.0
+</h1>
+</body>
+</html>
